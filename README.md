@@ -1,0 +1,1 @@
+-A CNN implementation that trains the model to detect the type of data in the FashionMNIST dataset.
